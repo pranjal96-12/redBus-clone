@@ -1,0 +1,68 @@
+.red{
+    display: flex;
+    object-fit: contain;
+    margin-left: 5px ;
+    justify-content: center;
+    margin-right:500px; 
+    opacity: 0.8;
+    font-size: 36px;
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: contain;
+    margin-left: 230px;
+    margin-right: 220px;
+    background-color: lightgray;
+    /*  */
+}
+.frm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    object-fit: contain;
+    margin: 7px;
+    padding-top: 10px;
+    font-size: small;
+    font-weight: bold;
+    
+    
+}
+.arrow{
+   margin-top: 20px;
+   /* border: 1px solid white; */
+   
+  height: 28px;
+  width: 28px;
+  background-color: red;
+  padding-top: 3px;
+  padding: 3px;
+   border-radius:50%;
+   color: white;
+   
+  
+}
+.roung{
+    justify-content: center;
+}
+.input{
+    padding: 10px;
+    border: none;
+    
+}
+.search{
+    color: white;
+    margin-top: 15px;
+    
+    padding: 10px;
+    background-color: red;
+    border: none;
+    align-content: center;
+}
+.redbuss > img{
+    margin-left: 70px;
+
+}

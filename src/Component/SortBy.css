@@ -1,0 +1,50 @@
+.inside{
+    
+    display: flex;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    margin-top: 4px;
+    margin-left: 50px;
+    margin-right: 3px;
+    padding-left: 2px;
+    padding-right: 4px;
+    /* margin-right: 15px; */
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 250%;
+    justify-content: space-between;
+}
+.by{
+   
+    margin-left: 3px;
+   
+}
+.depart_arrive{
+    display: flex;
+}
+.departy{
+    font-size:larger;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+.arrivy{
+    font-size: larger;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+.rtnglabl{
+    font-size: larger;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+.pricelabel{
+    font-size: larger;
+    color: white;
+    padding: 5px;
+    background-color: red;
+    margin-right: 2px;
+}

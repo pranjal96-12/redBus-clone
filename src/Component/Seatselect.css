@@ -1,0 +1,97 @@
+.seat{
+   display: flex;
+   flex-direction: column;
+   
+   
+  object-fit: cover ;
+   
+  
+    background-color: red;
+   
+}
+/* .bus__data{
+    display: flex;
+    flex-direction: column;
+} */
+
+.busrow{
+   margin-left: 220px;
+   margin-top: 40px;
+    background-color: white;
+    display: flex;
+    
+    flex-direction: column;
+    
+    
+    height: 250px;
+    width: 700px;
+    padding: 20px;
+}
+
+.busrow_one{
+   
+    height: 15%;
+    margin-left: 20px;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.busrow_two{
+    display: flex;
+   
+    height: 15%;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 10px;
+    justify-content: space-evenly;
+
+}
+.busrow_three{
+    display: flex;
+    margin-top: 120px;
+    width: 95%;
+    
+    justify-content: space-evenly;
+
+}
+.book{
+    display: flex;
+    justify-content: right ;
+    margin-bottom: 40px;
+    
+    margin-right: 160px;
+
+    
+    
+   
+    
+}
+.book>button{
+    font-size: larger;
+    padding: 10px;
+    
+    color: white;
+    background-color:  rgba(52, 202, 52, 0.903);
+    border: none;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    color: white;
+}
+.inh1{
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+.airline{
+    color: rgb(185, 184, 184);
+ } 
+
+.airline:hover{
+    cursor: pointer;
+    /* color: red; */
+}

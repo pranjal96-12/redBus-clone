@@ -1,0 +1,18 @@
+.bus_icon{
+    display: flex;
+    margin-bottom: -1px;
+    margin-top: 15px;
+    justify-content: center;
+}
+.second_redpg{
+    
+    background-color: red;
+   
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sort{
+    
+    display: flex;
+    flex-direction: row;
+}
